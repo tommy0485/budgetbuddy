@@ -26,7 +26,7 @@ import com.example.budgetBuddy.data.ItemDao
 import kotlinx.coroutines.launch
 
 /**
- * View Model to keep a reference to the Inventory repository and an up-to-date list of all items.
+ * View Model to keep a reference to the repository and an up-to-date list of all items.
  *
  */
 class InventoryViewModel(private val itemDao: ItemDao) : ViewModel() {

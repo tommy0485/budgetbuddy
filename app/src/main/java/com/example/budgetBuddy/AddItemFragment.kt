@@ -30,8 +30,6 @@ import androidx.navigation.fragment.navArgs
 import com.example.budgetBuddy.databinding.FragmentAddItemBinding
 import com.example.budgetBuddy.data.Item
 
-//import com.example.inventory.databinding.FragmentAddItemBinding
-
 /**
  * Fragment to add or update an item in the database.
  */
