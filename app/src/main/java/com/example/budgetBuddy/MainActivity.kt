@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
     }
 
     /**
-     * Handle navigation when the user chooses Up from the action bar.
+     * Handle navigation when the user chooses Up from the action bar
      */
     override fun onSupportNavigateUp(): Boolean {
         return navController.navigateUp() || super.onSupportNavigateUp()
